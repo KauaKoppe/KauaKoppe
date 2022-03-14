@@ -1,4 +1,3 @@
-### Olá, meu nome é Kauã Koppe, sou estudante de programação!                                              
 
 <div align="center">
   <a href="https://github.com/KauaKoppe">
@@ -17,6 +16,6 @@
 <div>
   <a href = "mailto:kauakoppe19@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
-  
+  ![Snake animation](https://github.com/KauaKoppe/KauaKoppe/blob/output/github-contribution-grid-snake.svg)
   
 </div>
